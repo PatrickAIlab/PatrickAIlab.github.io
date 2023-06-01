@@ -1,7 +1,7 @@
 # https://jekyllrb.com/docs/configuration/
 
 # site-wide variables
-title: The AIdesign Lab # title of site, used in tab name and elsewhere
+title: The AI Design Lab # title of site, used in tab name and elsewhere
 email: pchiang@fudan.edu.cn # default email
 google: Patrick Yin Chiang # default name to search on Google Scholar
 github: PatrickAIlab # default GitHub user/org, without the @
