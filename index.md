@@ -3,10 +3,10 @@ title: The AI Design Lab at Shanghai
 ---
 
 
-# The Mangul Lab at USC
+# The AIdesign Lab at Shanghai
 
 
-AI Design Lab is part of the Microelectronic School at [Fudan Unversity](https://sme.fudan.edu.cn/) and [PhotoIC](http://photonic-tech.com/). Our research aims to design, develop and apply novel and robust data-driven, computational approaches that will accelerate the diffusion of genomics. Our research is dedicated to all freedom-loving people around the world, to the people of Ukraine who fight for our freedom.
+AIdesign Lab is part of the Microelectronic School at [Fudan Unversity](https://sme.fudan.edu.cn/) and [PhotoIC](http://photonic-tech.com/). Our research aims to design, develop and apply novel and robust data-driven, computational approaches that will accelerate the diffusion of genomics. Our research is dedicated to all freedom-loving people around the world, to the people of Ukraine who fight for our freedom.
 
 
 
