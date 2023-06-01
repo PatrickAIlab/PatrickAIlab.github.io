@@ -1,34 +1,13 @@
-- title: Meta-analysis of (single-cell method) benchmarks reveals the need for extensibility
-    and interoperability
+- title: dToF LIDAR System Using Addressable Multi-Channel VCSEL Transmitter, 128x80 SPAD Sensor, and ML-Based Object Detection for Adaptive Beam-Steering
   authors:
-  - Anthony Sonrel
-  - Almut Luetge
-  - Charlotte Soneson
-  - Izaskun Mallona
-  - Pierre-Luc Germain
-  - Sergey Knyazev
-  - Jeroen Gilis
-  - Reto Gerber
-  - Ruth Seurinck
-  - Dominique Paul
-  - Emanuel Sonder
-  - Helena L. Crowell
-  - Imran Fanaswala
-  - Ahmad Al-Ajami
-  - Elyas Heidari
-  - Stephan Schmeing
-  - Stefan Milosavljevic
-  - Yvan Saeys
-  - Serghei Mangul
-  - Mark D. Robinson
-  publisher: Genome Biology
-  date: '2023-05-17'
-  link: https://doi.org/gr8qtq
-  id: doi:10.1186/s13059-023-02962-5
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-023-02962-5/MediaObjects/13059_2023_2962_Fig1_HTML.png?as=webp
-  extra-links:
-  - type: manubot
-    link: https://doi.org/10.1186/s13059-023-02962-5
+  - Yifan Wu
+  - Sifan Zhou
+  publisher: 2023 IEEE Custom Integrated Circuits Conference (CICC)
+  date: '2023-04-23'
+  link: https://ieeexplore.ieee.org/abstract/document/10121184
+  id: doi:10.1109/CICC57935.2023.10121184
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10121189/10121178/10121184/wu1-6-5-large.gif
+  
 - title: Large-scale Integrative Analysis of Juvenile Idiopathic Arthritis for New
     Insight into Its Pathogenesis
   authors:
