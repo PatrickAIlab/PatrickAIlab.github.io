@@ -22,9 +22,9 @@
 - title: ToFNeRF
   type: featured
   image: images/resources/tofnerf.jpg
-  link: https://github.com/Zaki0207/nerf-beta/tree/dev
+  link: 
   description: Prior neural radiance fields (NeRF) typically use a single RGB-only sensor as the only source of input, and are therefore strict with images and camera poses. In this paper, we propose ToF-NeRF, a model that fuses an additional ToF-depth sensor to the RGB-only sensor, enhancing the reconstruction ability of the neural radiance field to enable faster training, fewer input views, and higher quality (SNR).
-  repo: Zaki0207/nerf-beta/
+  repo: 
 
 - title: Diffusion Models
   type: more
