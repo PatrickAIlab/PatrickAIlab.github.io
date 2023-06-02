@@ -19,12 +19,12 @@
 
 # repo:
 # A GitHub repo to automatically fetch tags (aka "topics") from.
-- title: ROP
+- title: ToFNeRF
   type: featured
   image: images/resources/manubot.png
-  link: https://github.com/smangul1/rop/
-  description: a computational protocol to discover the source of all reads, which originate from complex RNA molecules, recombined B and T cell receptors and microbial communities
-  repo: smangul1/rop/
+  link: https://github.com/Zaki0207/nerf-beta/tree/dev
+  description: Prior neural radiance fields (NeRF) typically use a single RGB-only sensor as the only source of input, and are therefore strict with images and camera poses. In this paper, we propose ToF-NeRF, a model that fuses an additional ToF-depth sensor to the RGB-only sensor, enhancing the reconstruction ability of the neural radiance field to enable faster training, fewer input views, and higher quality (SNR).
+  repo: Zaki0207/nerf-beta/
 
 - title: Dylan Araps' Pure Bash Bible
   type: more
