@@ -4,7 +4,7 @@ title: Patrick Chiang
 search:
   - Serghei 
   - Mangul
-image: images/team/patrick-chiang.png
+image: images/team/patrick-chiang.jpg
 role: pi
 <!-- website: N/A -->
 email: pchiang@fudan.edu.cn
