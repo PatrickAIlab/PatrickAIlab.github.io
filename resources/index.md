@@ -8,7 +8,7 @@ redirect_from:
 
 # <i class="fas fa-tools"></i>Resources
 
-This page includes our open-sourced softwares, some information we find useful, our lab videos and the news in which Mangul Lab was present.  
+This page includes our open-sourced softwares, some information we find useful, our lab videos and the news in which AI Design Lab was present.  
 
 <!-- section break -->
 
@@ -40,12 +40,5 @@ This page includes our open-sourced softwares, some information we find useful, 
 
 {% include centerer.html html=html %}
 
-<!-- section break -->
 
-## We’re in the news!
 
-{% capture html %}
-{% include resource-list.html type="legacy" size="small" %}
-{% endcapture %}
-
-{% include centerer.html html=html %}
