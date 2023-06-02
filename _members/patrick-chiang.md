@@ -2,8 +2,8 @@
 title: Patrick Chiang
 
 search:
-  - Serghei 
-  - Mangul
+  - Patrick
+  - Chiang
 image: images/team/patrick-chiang.jpg
 role: pi
 <!-- website: N/A -->
