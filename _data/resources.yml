@@ -21,19 +21,19 @@
 # A GitHub repo to automatically fetch tags (aka "topics") from.
 - title: ToFNeRF
   type: featured
-  image: images/resources/manubot.png
+  image: images/resources/tofnerf.jpg
   link: https://github.com/Zaki0207/nerf-beta/tree/dev
   description: Prior neural radiance fields (NeRF) typically use a single RGB-only sensor as the only source of input, and are therefore strict with images and camera poses. In this paper, we propose ToF-NeRF, a model that fuses an additional ToF-depth sensor to the RGB-only sensor, enhancing the reconstruction ability of the neural radiance field to enable faster training, fewer input views, and higher quality (SNR).
   repo: Zaki0207/nerf-beta/
 
-- title: Dylan Araps' Pure Bash Bible
+- title: Diffusion Models
   type: more
   image: https://het.io/share-thumbnail.png
-  link: https://github.com/dylanaraps/pure-bash-bible
-  description: A collection of pure bash alternatives to external processes.
+  link: https://github.com/heejkoo/Awesome-Diffusion-Models
+  description: A collection of awsome diffusion models.
 
-- title: "BCC2020 Virtual Conference on July 20, 2020: Varuni Sarwal"
+- title: "Patrick Chiang"
   type: other
   image: https://manubot.org/share-thumbnail.png
-  link: https://vimeo.com/437697577
-  description: "Talk presented by Mangul Lab undergraduate researcher Varuni Sarwal at the BCC2020 Virtual Conference on July 20, 2020:"
+  link: https://www.youtube.com/watch?v=s9jBMf3n2qg&t=1087s
+  description: "UWEE Research Colloquium: April 21, 2015 - Patrick Chiang, Oregon State University"
