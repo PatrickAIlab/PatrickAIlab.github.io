@@ -5,10 +5,7 @@ title: The AI Design Lab at Shanghai
 
 # The AI Design Lab at Shanghai
 
-
-AI Design Lab is part of the Microelectronic School at [Fudan Unversity](https://sme.fudan.edu.cn/) and [PhotoIC](http://photonic-tech.com/). Our research aims to design, develop and apply novel and robust data-driven, computational approaches that will accelerate the diffusion of genomics. Our research is dedicated to all freedom-loving people around the world, to the people of Ukraine who fight for our freedom.
-
-
+Welcome to the AI Design Lab at [Fudan Unversity](https://sme.fudan.edu.cn/), a dynamic research facility at the forefront of the intersection between AI and design. Situated within the prestigious Fudan University in Shanghai, China, our lab is dedicated to exploring and applying AI technologies in various design domains. With a focus on depth information, 2D and 3D computer vision, 3D reconstruction, object detection, and reinforcement learning, our lab aims to push the boundaries of AI-driven design applications.
 
 <!-- section break -->
 
