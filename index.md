@@ -24,7 +24,7 @@ Our laboratory is dedicated to the research of computer vision data processing, 
 %}
 
 {% capture text %}
-We believe in data analysis transparency, effective sharing, reproducibility, software usability, and archival stability to foster a sustainable data science ecosystem in biomedical research.
+Artificial Intelligence Research, we study the cutting-edge theoretical knowledge of machine learning and reinforcement learning.
 
 [See our GitHub repository &nbsp;→](https://github.com/PatrickAIlab/)
 {:.center}
@@ -33,13 +33,12 @@ We believe in data analysis transparency, effective sharing, reproducibility, so
   include feature.html
   image="images/image_2.jpg"
   link="resources"
-  heading="Rigor and reproducibility in biomedical research"
+  heading="Artificial Intelligence"
   text=text
 %}
 
 {% capture text %}
-We are a team of enthusiastic researchers aimed to combine open omics data with robust bioinformatics methods to enable novel biological discoveries. We are committed to ensuring an inclusive and supportive environment. We also believe in empowering the members of our team with necessary bioinformatics training and support, allowing them to make important contributions to the fields of biomedical research.
-
+We are a team of enthusiastic researchers aimed to combine hardware and software.
 
 [Meet our team &nbsp;→](team)
 {:.center}
