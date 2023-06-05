@@ -10,7 +10,7 @@ Welcome to the AI Design Lab at [Fudan Unversity](https://sme.fudan.edu.cn/), a 
 <!-- section break -->
 
 {% capture text %}
-Computational data-driven research focuses on developing and applying computational methods across various types of omics datasets. Such research is performed in a new type of laboratory, often called a dry lab. Our team designs, develops and applies novel and robust data-driven, computational approaches that will accelerate the diffusion of genomics and biomedical data into translational research and education.
+Our laboratory is dedicated to the research of computer vision data processing, including 2D to 3D data processing, application algorithms, and theoretical studies. Our goal is to develop innovative methods and technologies to help computers better understand and interpret visual data, and apply them to various real-world scenarios.
 
 [Our Publications &nbsp;→](research)
 {:.center}
@@ -19,7 +19,7 @@ Computational data-driven research focuses on developing and applying computatio
   include feature.html
   image="images/image_1.jpg"
   link="research"
-  heading="Computational data-driven research"
+  heading="Computer Vision"
   text=text
 %}
 
