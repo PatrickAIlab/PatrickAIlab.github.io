@@ -15,7 +15,7 @@ This page includes our open-sourced softwares, some information we find useful, 
 ## Depth Completion!
 
 {% capture html %}
-{% include resource-list.html type="featured" size="large" %}
+{% include resource-list.html type="more" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
@@ -25,7 +25,7 @@ This page includes our open-sourced softwares, some information we find useful, 
 ## SNR Enhancement!
 
 {% capture html %}
-{% include resource-list.html type="featured" size="large" %}
+{% include resource-list.html type="more" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
@@ -35,7 +35,7 @@ This page includes our open-sourced softwares, some information we find useful, 
 ## 3D Reconstruction!
 
 {% capture html %}
-{% include resource-list.html type="featured" size="large" %}
+{% include resource-list.html type="more" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
