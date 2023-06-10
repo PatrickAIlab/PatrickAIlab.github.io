@@ -1,8 +1,8 @@
 ---
-title: Opportunities
+title: Teaching
 ---
 
-# <i class="fas fa-feather-alt"></i>Opportunities
+# <i class="fas fa-feather-alt"></i>Teaching
 
 ## Funding Opportunities
 
