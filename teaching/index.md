@@ -4,14 +4,13 @@ title: Teaching
 
 # <i class="fas fa-feather-alt"></i>Teaching
 
-## Funding Opportunities
+## AI Design Courses
 
 We are prepared to help our members
 
-### Undergraduate
+<!-- ### Undergraduate
+
 #### Agency and Awards
-
-
 
 ### Graduate
 #### Agency and Awards
@@ -19,7 +18,7 @@ We are prepared to help our members
 
 
 ### Postdoctoral
-#### Agency and Awards
+#### Agency and Awards -->
 
 
 ---
