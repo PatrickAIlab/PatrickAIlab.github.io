@@ -22,7 +22,23 @@
     from full-width to very narrow. Adjust the $tablet and $phone cutoff points
     in /css/variables.scss until the header elements wrap at the right time.
     {%- endcomment -%}
-
+    
+    <a
+      href="{{ 'updates' | relative_url }}"
+      class="nav_link"
+      data-tooltip="AI Design Lab News"
+      data-placement="bottom"
+      data-delay="400"
+      >Updates</a
+    >
+    <a
+      href="{{ 'team' | relative_url }}"
+      class="nav_link"
+      data-tooltip="About our team"
+      data-placement="bottom"
+      data-delay="400"
+      >Team</a
+    >
     <a
       href="{{ 'research' | relative_url }}"
       class="nav_link"
@@ -40,12 +56,12 @@
       >Resources</a
     >
     <a
-      href="{{ 'team' | relative_url }}"
+      href="{{ 'resources' | relative_url }}"
       class="nav_link"
-      data-tooltip="About our team"
+      data-tooltip="Tools, datasets, and more"
       data-placement="bottom"
       data-delay="400"
-      >Team</a
+      >Resources</a
     >
     <!-- <a
       href="{{ 'alumni' | relative_url }}"
@@ -71,14 +87,6 @@
       data-delay="400"
       >News</a
     > -->
-    <a
-      href="{{ 'updates' | relative_url }}"
-      class="nav_link"
-      data-tooltip="AI Design Lab News"
-      data-placement="bottom"
-      data-delay="400"
-      >Updates</a
-    >
     <!-- <a
       href="{{ 'oppurtunities' | relative_url }}"
       class="nav_link"
@@ -87,21 +95,21 @@
       data-delay="400"
       >Opportunities</a
     > -->
-    <a
+    <!--     <a
       href="{{ 'gallery' | relative_url }}"
       class="nav_link"
       data-tooltip="Photos of AI Design Lab"
       data-placement="bottom"
       data-delay="400"
       >Gallery</a
-    >
-    <a
+    > -->
+    <!--     <a
       href="{{ 'contact' | relative_url }}"
       class="nav_link"
       data-tooltip="Email, address, and location"
       data-placement="bottom"
       data-delay="400"
       >Contact</a
-    >
+    > -->
   </nav>
 </header>
