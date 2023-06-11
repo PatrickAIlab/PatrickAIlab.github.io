@@ -10,7 +10,7 @@ Welcome to the AI Design Lab at [Fudan Unversity](https://sme.fudan.edu.cn/), a 
 <!-- section break -->
 
 {% capture text %}
-Our laboratory is dedicated to the research of computer vision data processing, including 2D to 3D data processing, application algorithms, and theoretical studies. Our goal is to develop innovative methods and technologies to help computers better understand and interpret visual data, and apply them to various real-world scenarios.
+Our laboratory is dedicated to the application of AI to computer vision data processing, including: 2D to 3D data processing,  algorithms, and  . Our goal is to develop innovative methods and technologies to help computers better understand and interpret visual data, and apply them to various real-world scenarios.
 
 [Our Publications &nbsp;→](research)
 {:.center}
@@ -24,7 +24,7 @@ Our laboratory is dedicated to the research of computer vision data processing, 
 %}
 
 {% capture text %}
-Artificial Intelligence Research, we study the cutting-edge theoretical knowledge of machine learning and reinforcement learning.
+Our goal is to develop a teaching pedagogy about using and practing AI, in real applications.  
 
 [See our GitHub repository &nbsp;→](https://github.com/PatrickAIlab/)
 {:.center}
