@@ -33,7 +33,7 @@ Artificial Intelligence Research, we study the cutting-edge theoretical knowledg
   include feature.html
   image="images/image_2.jpg"
   link="resources"
-  heading="Artificial Intelligence"
+  heading="TEACHING: AI Design"
   text=text
 %}
 
