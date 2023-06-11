@@ -1,9 +1,9 @@
 ---
-title: The AI Design Lab at Shanghai
+title: The AI Design Lab at Fudan
 ---
 
 
-# The AI Design Lab at Shanghai
+# The AI Design Lab at Fudan
 
 Welcome to the AI Design Lab at [Fudan Unversity](https://sme.fudan.edu.cn/). Situated within Fudan University in Shanghai, China, our dynamic research group is at the forefront of the practice between AI and DESIGN.  
 
