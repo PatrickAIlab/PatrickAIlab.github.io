@@ -19,7 +19,7 @@ Our laboratory is dedicated to the research of computer vision data processing, 
   include feature.html
   image="images/image_1.jpg"
   link="research"
-  heading="Computer Vision"
+  heading="RESEARCH: Computer Vision"
   text=text
 %}
 
