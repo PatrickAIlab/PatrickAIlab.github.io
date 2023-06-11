@@ -27,7 +27,7 @@ Our goal is to develop innovative technologies to help computers better collect,
 %}
 
 {% capture text %}
-We are teaching a design pedagogy about applying and using AI, for real end-use applications.  This includes: customer need-finding, 
+We are developing a design pedagogy about applying and using AI, for real-world end-use applications.  This includes: customer need-finding, 
 usage scenarios, and data collection/labeling/training/inference.  Students are then involved in industrial projects to solve real-world
 problems that leverage the latest open-source AI models. 
 
