@@ -24,7 +24,9 @@ Our laboratory is dedicated to the application of AI to computer vision data pro
 %}
 
 {% capture text %}
-Our goal is to develop a teaching pedagogy about using and practing AI, in real applications.  
+We are teaching a design pedagogy about applying and using AI, for real end-use applications.  This includes: customer need-finding, 
+usage scenarios, and data collection/labeling/training/inference.  Students are then involved in industrial projects to solve real-world
+problems that are  AI.  
 
 [See our GitHub repository &nbsp;→](https://github.com/PatrickAIlab/)
 {:.center}
