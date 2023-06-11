@@ -11,9 +11,7 @@ Welcome to the AI Design Lab at [Fudan Unversity](https://sme.fudan.edu.cn/). Si
 <!-- section break -->
 
 {% capture text %}
-Our laboratory is dedicated to the application of AI to computer vision data processing, including: 2D - 3D computer vision, Transformer algorithms, Depth - RGB fusion, Depth Sensor enhancements / fusion, and hardware accelerators. 
-
-Our goal is to develop innovative technologies to help computers better collect, understand and interpret visual data, and apply them to  real-world scenarios. (i.e. AR / VR, Autonomous Driving, Medical Imaging).
+The laboratory is dedicated to the application of AI to computer, including: 2D - 3D computer vision, Transformer algorithms, Depth - RGB fusion, Depth Sensor enhancements / fusion, and hardware accelerators. Our goal is to develop AI technologies to help us better collect, understand and interpret visual data, and apply them to  real-world scenarios. (i.e. AR / VR, Autonomous Driving, Medical Imaging).
 
 [Our Publications &nbsp;→](research)
 {:.center}
