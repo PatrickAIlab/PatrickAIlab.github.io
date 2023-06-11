@@ -5,12 +5,15 @@ title: The AI Design Lab at Shanghai
 
 # The AI Design Lab at Shanghai
 
-Welcome to the AI Design Lab at [Fudan Unversity](https://sme.fudan.edu.cn/), a dynamic research facility at the forefront of the intersection between AI and design. Situated within the prestigious Fudan University in Shanghai, China, our lab is dedicated to exploring and applying AI technologies in various design domains. With a focus on depth information, 2D and 3D computer vision, 3D reconstruction, object detection, and reinforcement learning, our lab aims to push the boundaries of AI-driven design applications.
+Welcome to the AI Design Lab at [Fudan Unversity](https://sme.fudan.edu.cn/). Situated within Fudan University in Shanghai, China, our dynamic research group is at the forefront of the practice between AI and DESIGN.  Our GOAL is dedicated to both teaching and applying AI technologies to real-world usage scenarios. 
+
 
 <!-- section break -->
 
 {% capture text %}
-Our laboratory is dedicated to the application of AI to computer vision data processing, including: 2D to 3D data processing,  algorithms, and  . Our goal is to develop innovative methods and technologies to help computers better understand and interpret visual data, and apply them to various real-world scenarios.
+Our laboratory is dedicated to the application of AI to computer vision data processing, including: 2D - 3D computer vision, Transformer algorithms, Depth - RGB fusion, Depth Sensor enhancements / fusion, and hardware accelerators. 
+
+Our goal is to develop innovative technologies to help computers better collect, understand and interpret visual data, and apply them to  real-world scenarios. (i.e. AR / VR, Autonomous Driving, Medical Imaging).
 
 [Our Publications &nbsp;→](research)
 {:.center}
