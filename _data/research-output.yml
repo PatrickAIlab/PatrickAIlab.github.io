@@ -1,9 +1,62 @@
-- title: dToF LIDAR System Using Addressable Multi-Channel VCSEL Transmitter, 128x80 SPAD Sensor, and ML-Based Object Detection for Adaptive Beam-Steering
+- title: An 8-A Sub-1ns Pulsed VCSEL Driver IC With Built-In Pulse Monitor and Automatic Peak Current Control for Direct Time-of-Flight Applications
   authors:
+  - Tao Xia
+  - Xuefeng Chen
   - Yifan Wu
-  - Sifan Zhou
-  publisher: 2023 IEEE Custom Integrated Circuits Conference (CICC)
-  date: '2023-04-23'
-  link: https://ieeexplore.ieee.org/abstract/document/10121184
-  id: doi:10.1109/CICC57935.2023.10121184
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10121189/10121178/10121184/wu1-6-5-large.gif
+  - Yuwei Wang
+  - Yuan Li
+  - Lei Wang
+  - Liujia Song
+  - Hengwei Yu
+  - Jiqing Xu
+  - Miao Sun
+  - Jier Wang
+  - Lei Zhao
+  - Zhihong Lin
+  - Shenglong Zhuo
+  - Patrick Yin Chiang
+  publisher: IEEE Transactions on Circuits and Systems II: Express Briefs
+  date: '2022-06-27'
+  link: https://ieeexplore.ieee.org/abstract/document/9807275
+  id: DOI: 10.1109/TCSII.2022.3186542
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8920/9931138/9807275/xia4ab-3186542-large.gif
+- title: An integrated 8A pulsed VCSEL array driver under 12V supply with built-in pulse monitor and automatic peak current control for direct time-of-flight applications
+  authors:
+  - Tao Xia
+  - Xuefeng Chen
+  - Yuwei Wang
+  - Yuan Li
+  - Yifan Wu
+  - Lei Wang
+  - Liujia Song
+  - Zhihong Lin
+  - Shenglong Zhuo
+  - Patrick Yin Chiang
+  publisher: 2021 IEEE Asian Solid-State Circuits Conference (A-SSCC)
+  date: '2021-12-10'
+  link: https://ieeexplore.ieee.org/abstract/document/9634829
+  id: DOI: 10.1109/A-SSCC53895.2021.9634829
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9634699/9634177/9634829/xia1ab-S13_3_3230_-large.gif
+- title: Solid-State dToF LiDAR System Using an Eight-Channel Addressable, 20-W/Ch Transmitter, and a 128 × 128 SPAD Receiver With SNR-Based Pixel Binning and Resolution Upscaling
+  authors:
+  - Shenglong Zhuo
+  - Tao Xia
+  - Lei Zhao
+  - Miao Sun
+  - Yifan Wu
+  - Lei Wang
+  - Hengwei Yu
+  - Jiqing Xu
+  - Jier Wang
+  - Zhihong Lin
+  - Yuan Li
+  - Lei Qiu
+  - Rui Bai
+  - Xuefeng Chen
+  - Patrick Yin Chiang
+
+  publisher: IEEE Journal of Solid-State Circuits
+  date: '2022-12-19'
+  link: https://ieeexplore.ieee.org/abstract/document/9991882
+  id: DOI: 10.1109/JSSC.2022.3227078
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/10051119/9991882/zhuo1-3227078-large.gif
