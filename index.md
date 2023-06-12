@@ -31,7 +31,7 @@ We are developing a design pedagogy about applying and using AI, for real-world 
 usage scenarios, and data collection/labeling/training/inference.  Students are then involved in industrial projects to solve real-world
 problems that leverage the latest open-source AI models. 
 
-[See TEACHING &nbsp;→](https://github.com/PatrickAIlab/)
+[See TEACHING &nbsp;→](teaching)
 {:.center}
 {% endcapture %}
 {%
