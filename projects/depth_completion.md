@@ -1,5 +1,5 @@
 ---
-title: Depth completion
+title: Depth Completion
 redirect_from:
   - /webservers
   - /software
