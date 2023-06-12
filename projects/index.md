@@ -13,7 +13,7 @@ This page includes our open-sourced softwares, some information we find useful, 
 <!-- section break -->
 
 ## Depth Completion!
-
+[Go to Page 2](page2.md)
 {% capture html %}
 {% include resource-list.html type="more" size="small" %}
 {% endcapture %}
