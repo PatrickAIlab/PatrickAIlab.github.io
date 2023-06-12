@@ -22,7 +22,7 @@ This page includes our open-sourced softwares, some information we find useful, 
 
 <!-- section break -->
 
-## SNR Enhancement!
+## [SNR Enhancement!](SNR_enhancement.md)
 
 {% capture html %}
 {% include resource-list.html type="more" size="small" %}
@@ -32,7 +32,7 @@ This page includes our open-sourced softwares, some information we find useful, 
 
 <!-- section break -->
 
-## 3D Reconstruction!
+## [3D Reconstruction!](3d_reconstruction.md)
 
 {% capture html %}
 {% include resource-list.html type="more" size="small" %}
@@ -42,7 +42,7 @@ This page includes our open-sourced softwares, some information we find useful, 
 
 <!-- section break -->
 
-## 3D-Segmentation / Classification!
+##  [3D-Segmentation / Classification!](3d_seg_cla.md)
 
 {% capture html %}
 {% include resource-list.html type="more" size="small" %}
