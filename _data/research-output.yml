@@ -111,7 +111,7 @@
   publisher: Optica
   date: '2023-05-23'
   link: https://opg.optica.org/ol/abstract.cfm?uri=ol-48-12-3207
-  id: 
+  id: doi:10.1364/OL.493241
   image: images/image_1.jpg
 - title: All-in-One SPAD Ranging Sensor With Real-Time Xtalk Calibration and Integrated Biasing
   authors:
@@ -176,5 +176,5 @@
   publisher: Sensors 2023
   date: '2022-12-27'
   link: https://www.mdpi.com/1424-8220/23/1/420
-  id: 
+  id: doi:10.3390/s23010420
   image: images/image_1.jpg
