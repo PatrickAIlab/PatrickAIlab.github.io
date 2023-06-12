@@ -8,7 +8,7 @@
   id: doi:10.1109/CICC57935.2023.10121184
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10121189/10121178/10121184/wu1-6-5-large.gif
 - title: dToFSSS LIDAR System Using Addressable Multi-Channel VCSEL Transmitter, 128x80 SPAD Sensor, and ML-Based Object Detection for Adaptive Beam-Steering
-authors:
+  authors:
   - Yifan Wu
   - Sifan Zhou
   publisher: 2023 IEEE Custom Integrated Circuits Conference (CICC)
