@@ -102,3 +102,79 @@
   link: https://ieeexplore.ieee.org/abstract/document/9772823
   id: doi:10.1109/CICC53496.2022.9772823
   image: images/image_1.jpg
+- title: Dual pulse repetition rates with high background noise tolerance for memory-efficient SPAD LiDAR
+  authors:
+  - Lei Zhao
+  - Hengwei Yu
+  - Lei Wang
+  - Patrick Yin Chiang
+  publisher: Optica
+  date: '2023-05-23'
+  link: https://opg.optica.org/ol/abstract.cfm?uri=ol-48-12-3207
+  id: 
+  image: images/image_1.jpg
+- title: All-in-One SPAD Ranging Sensor With Real-Time Xtalk Calibration and Integrated Biasing
+  authors:
+  - Hengwei Yu
+  - Shenglong Zhuo
+  - Yifan Wu
+  - Lei Wang
+  - Long Wang
+  - Tao Xia
+  - Lei Zhao
+  - Jiqing Xu
+  - Yuan Li
+  - Zhihong Lin
+  - Patrick Yin Chiang
+  publisher: IEEE Photonics Technology Letters
+  date: '2023-03-14'
+  link: https://ieeexplore.ieee.org/abstract/document/10068505
+  id: doi:10.1109/LPT.2023.3257043
+  image: images/image_1.jpg
+- title: A dToF Ranging Sensor with Accurate Photon Detector Measurements for LiDAR Applications
+  authors:
+  - Hengwei Yu
+  - Long Wang
+  - Jiqing Xu 
+  - Patrick Yin Chiang
+  publisher: Sensors 2023
+  date: '2023-0310'
+  link: https://www.mdpi.com/1424-8220/23/6/3011
+  id: doi:10.3390/s23063011
+  image: images/image_1.jpg
+- title: dToF LIDAR System Using Addressable Multi-Channel VCSEL Transmitter, 128x80 SPAD Sensor, and ML-Based Object Detection for Adaptive Beam-Steering
+  authors:
+  - Yifan Wu
+  - Sifan Zhou
+  - Miao Sun
+  - Tao Xia
+  - Jian Qian
+  - Lei Wang
+  - Shi Shi
+  - Lebei Cui
+  - Chill Wang
+  - Yuan Li
+  - Hengwei Yu
+  - Zhihong Lin
+  - Lei Qiu
+  - Yajie Qin
+  - Min Sun
+  - Rui Bai
+  - Xuefeng Chen
+  - Patrick Yin Chiang
+  - Shenglong Zhuo
+  publisher: 2023 IEEE Custom Integrated Circuits Conference (CICC)
+  date: '2023-04-23'
+  link: https://ieeexplore.ieee.org/abstract/document/10121184
+  id: DOI:10.1109/CICC57935.2023.10121184
+  image: images/image_1.jpg
+- title: Multi-Scale Histogram-Based Probabilistic Deep Neural Network for Super-Resolution 3D LiDAR Imaging
+  authors:
+  - Miao Sun
+  - Shenglong Zhuo
+  - Patrick Yin Chiang
+  publisher: Sensors 2023
+  date: '2022-12-27'
+  link: https://www.mdpi.com/1424-8220/23/1/420
+  id: 
+  image: images/image_1.jpg
