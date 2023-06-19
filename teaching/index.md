@@ -12,7 +12,7 @@ title: Teaching
 <h3>Total Hours: 36 hours over 18 weeks</h3>
 <br>
 <h3>Day: Fridays, 15:25PM - 1610PM; 1620PM - 1705PM</h3>
-<h3>Classroom: HGX310, West Guanghalou Building, Handan Campus</h3>h3>
+<h3>Classroom: HGX310, West Guanghalou Building, Handan Campus</h3>
 <br>
 <h3>Instructor: Professor Patrick Yin Chiang</h3>
 <h3>Email: pchiang (at) fudan.edu.cn</h3>
