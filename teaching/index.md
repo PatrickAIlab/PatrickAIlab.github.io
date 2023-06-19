@@ -9,13 +9,13 @@ title: Teaching
 <h3> Course Code: SME637003 </h3>
 <h3> Course Name: Artifical Intelligence Design and Applications </h3>
 <h3>Credits: 2 </h3>
-<h3>Total Hours: 36 hours (over 18 weeks)</h3>
+<h3>Total Hours: 36 hours over 18 weeks</h3>
 <br>
-Day: Fridays, 15:25PM - 1610PM; 1620PM - 1705PM
-Classroom: HGX310, West Guanghalou Building, Handan Campus
-
-Instructor: Professor Patrick Yin Chiang
-Email: pchiang (at) fudan.edu.cn
+<h3>Day: Fridays, 15:25PM - 1610PM; 1620PM - 1705PM</h3>
+<h3>Classroom: HGX310, West Guanghalou Building, Handan Campus</h3>h3>
+<br>
+<h3>Instructor: Professor Patrick Yin Chiang</h3>
+<h3>Email: pchiang (at) fudan.edu.cn</h3>
 
 This course is designed for students to learn the theory, algorithms, and applications of artificial intelligence and deepen their understanding through common Open-Source programming exercises (i.e. Python and GitHub). The course covers mostly supervised learning, unsupervised learning, and reinforcement learning models. 
 
