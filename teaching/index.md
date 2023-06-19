@@ -6,12 +6,12 @@ title: Teaching
 
 ## AI Design Course
 
-Course Code: SME637003
-Course Name: Artifical Intelligence Design and Applications
-Credits: 2
-Total Hours: 36 hours (over 18 weeks)
-
-Day: Fridays, 
+<li> Course Code: SME637003 </li>
+<li> Course Name: Artifical Intelligence Design and Applications </li>
+<li>Credits: 2 </li>
+<li>Total Hours: 36 hours (over 18 weeks)</li>
+<br>
+Day: Fridays, 15:25PM - 1610PM; 1620PM - 1705PM
 Classroom: HGX310, West Guanghalou Building, Handan Campus
 
 Instructor: Professor Patrick Yin Chiang
