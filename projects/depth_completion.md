@@ -8,6 +8,6 @@ redirect_from:
 
 # <i class="fas fa-tools"></i> Depth Completion
 
-This page includes our open-sourced softwares, some information we find useful, our lab videos and the news in which AI Design Lab was present.  
+Depth completion aims to predict dense depth maps with sparse depth measurements from a depth sensor. Currently, Convolutional Neural Network (CNN) based models are the most popular methods applied to depth completion tasks. The Transformer, which is an adaptive self-attention setting sequence-to-sequence model. 
 
 <!-- section break -->
