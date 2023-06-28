@@ -24,9 +24,7 @@ robot navigation.
 
 ## [SNR Enhancement!](SNR_enhancement.md)
 
-{% capture html %}
-{% include resource-list.html type="more" size="small" %}
-{% endcapture %}
+
 
 {% include centerer.html html=html %}
 
@@ -34,9 +32,7 @@ robot navigation.
 
 ## [3D Reconstruction!](3d_reconstruction.md)
 
-{% capture html %}
-{% include resource-list.html type="more" size="small" %}
-{% endcapture %}
+
 
 {% include centerer.html html=html %}
 
@@ -44,9 +40,7 @@ robot navigation.
 
 ##  [3D-Segmentation / Classification!](3d_seg_cla.md)
 
-{% capture html %}
-{% include resource-list.html type="more" size="small" %}
-{% endcapture %}
+
 
 {% include centerer.html html=html %}
 
