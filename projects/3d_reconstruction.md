@@ -8,11 +8,13 @@ redirect_from:
 
 # <i class="fas fa-tools"></i> 3D Reconstruction
 
-![NeRF](/images)
+![NeRF](/images/projects/NeRF.jpg)
+For NeRF
 
-![SLAM](https://example.com/openai-logo.png)
 
-This page includes our open-sourced softwares, some information we find useful, our lab videos and the news in which AI Design Lab was present.  
+![SLAM](/images/projects/SLAM.jpg)
+For SLAM
+
 
 <!-- section break -->
 
