@@ -14,9 +14,9 @@ This page includes our open-sourced softwares, some information we find useful, 
 
 ## [Depth Completion!](depth_completion.md)
 
-{% capture html %}
-{% include resource-list.html type="more" size="small" %}
-{% endcapture %}
+Depth completion aims at predicting dense pixel-wise depth from an extremely sparse map captured from a depth sensor,
+e.g., LiDARs. It plays an essential role in various applications such as autonomous driving, 3D reconstruction, augmented reality, and
+robot navigation.
 
 {% include centerer.html html=html %}
 
