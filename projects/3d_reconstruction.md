@@ -9,7 +9,7 @@ redirect_from:
 # <i class="fas fa-tools"></i> 3D Reconstruction
 
 ![NeRF](/images/projects/NeRF.jpg)
-For NeRF
+For NeRF<br>
 
 
 ![SLAM](/images/projects/SLAM.jpg)
