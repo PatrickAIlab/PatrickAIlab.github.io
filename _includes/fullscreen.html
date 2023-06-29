@@ -4,7 +4,7 @@
   if ("{{ page.url }}" === "/") {
     // set header to take up whole screen, ie "fullscreen"
     const header = document.querySelector("header");
-    header.dataset.fullscreen = true;
+    header.dataset.fullscreen = False;
     // listen for any user interaction to exit "fullscreen"
     const exitFullscreen = () => (header.dataset.fullscreen = false);
     window.addEventListener("mousedown", exitFullscreen);
