@@ -45,12 +45,12 @@ Students
 <p>PhD, Sifan</li>
 
 Alumni
-<p>PhD, Zhao Lei (Hesai)
-<p>PhD, Heng Wei (Huawei)
-<p>PhD, Tao Xia 
+<p>PhD, Zhao Lei (Hesai)</li>
+<p>PhD, Heng Wei (Huawei)</li>
+<p>PhD, Tao Xia </p>li>
+<p></p>
+<p>MS, James Qian (Robotics)</li>
 
-MS, James Qian (Robotics)
-MS, 
 
 
 {%
