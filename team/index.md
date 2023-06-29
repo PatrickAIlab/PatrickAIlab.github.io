@@ -37,12 +37,12 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 We are actively recruiting highly motivated graduate students and postdocs with a capable computational background. 
 
 Students
-<p>PhD, Sun Miao</li>
-<p> PhD, Chill Wang</li>
-<p> MS, Lebei Cui</li>
-<p>MS, Li Jie</li>
-<p>PhD, Zi Yu</li>
-<p>PhD, Sifan</li>
+<p>PhD, Sun Miao</p>
+<p> PhD, Chill Wang</p>
+<p> MS, Lebei Cui</p>
+<p>MS, Li Jie</p>
+<p>PhD, Zi Yu</p>
+<p>PhD, Sifan</p>
 
 Alumni
 <p>PhD, Zhao Lei (Hesai)</li>
