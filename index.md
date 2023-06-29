@@ -37,7 +37,7 @@ problems that leverage the latest open-source AI models.
 {%
   include feature.html
   image="images/image_2.jpg"
-  link="resources"
+  link="research"
   heading="TEACHING: AI Design"
   text=text
 %}
