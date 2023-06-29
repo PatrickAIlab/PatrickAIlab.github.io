@@ -34,8 +34,6 @@ redirect_from: /publications
 
 {% include centerer.html html=html %}
 
-The citations on this page were generated automatically!
-
 <!-- section break -->
 
 {%
