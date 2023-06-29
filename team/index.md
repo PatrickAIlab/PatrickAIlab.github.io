@@ -38,12 +38,12 @@ We are actively recruiting highly motivated graduate students and postdocs with 
 
 <h3>Students</h3>
 <hr>
-<li><p>PhD, Sun Miao</p>
-<li><p> PhD, Chill Wang</p>
-<li><p> MS, Lebei Cui</p>
-<li><p>MS, Li Jie</p>
-<li><p>PhD, Zi Yu</p>
-<li><p>PhD, Sifan</p>
+<li> PhD, Sun Miao</p>
+<li> PhD, Chill Wang</p>
+<li> MS, Lebei Cui</p>
+<li> MS, Li Jie</p>
+<li> PhD, Zi Yu</p>
+<li> PhD, Sifan</p>
 <p></p>
 
 <h3>Alumn</h3>
