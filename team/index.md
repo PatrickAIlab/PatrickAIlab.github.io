@@ -39,7 +39,6 @@ We are actively recruiting highly motivated graduate students and postdocs with 
 <h3>Students</h3>
 <hr>
 <li> PhD, Sun Miao
-
 <li> PhD, Chill Wang
 <li> MS, Lebei Cui
 <li> MS, Li Jie
@@ -49,11 +48,11 @@ We are actively recruiting highly motivated graduate students and postdocs with 
 
 <h3>Alumn</h3>
 <hr>
-<p>PhD, Zhao Lei (Hesai)</li>
-<p>PhD, Heng Wei (Huawei)</li>
-<p>PhD, Tao Xia </p>li>
+<p>PhD, Zhao Lei (Hesai)
+<p>PhD, Heng Wei (Huawei)
+<p>PhD, Tao Xia
 <p></p>
-<p>MS, James Qian (Robotics)</li>
+<p>MS, James Qian (Robotics)
 
 
 
