@@ -46,7 +46,7 @@ We are actively recruiting highly motivated graduate students and postdocs with 
 <li> PhD, Sifan
 <p></p>
 
-<h3>Alumn</h3>
+<h3>Alumni</h3>
 <hr>
 <p>PhD, Zhao Lei (Hesai)
 <p>PhD, Heng Wei (Huawei)
