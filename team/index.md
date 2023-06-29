@@ -49,10 +49,9 @@ We are actively recruiting highly motivated graduate students and postdocs with 
 <h3>Alumni</h3>
 <hr>
 <li>PhD, Zhao Lei (Hesai)
-<li></li>PhD, Heng Wei (Huawei)
-<li></li>PhD, Tao Xia
-<p></p>
-<li></li>MS, James Qian (Robotics)
+<li>PhD, Heng Wei (Huawei)
+<li>PhD, Tao Xia
+<li>MS, James Qian (Robotics)
 
 
 
