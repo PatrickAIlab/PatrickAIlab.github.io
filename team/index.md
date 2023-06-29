@@ -37,17 +37,17 @@ Our diverse team is composed of a highly enthusiastic and collaborative research
 We are actively recruiting highly motivated graduate students and postdocs with a capable computational background. 
 
 Students
-<li>PhD, Sun Miao</li>
-<li> PhD, Chill Wang</li>
-<li> MS, Lebei Cui</li>
-<li>MS, Li Jie</li>
-<li>PhD, Zi Yu</li>
-<li>PhD, Sifan</li>
+<p>PhD, Sun Miao</li>
+<p> PhD, Chill Wang</li>
+<p> MS, Lebei Cui</li>
+<p>MS, Li Jie</li>
+<p>PhD, Zi Yu</li>
+<p>PhD, Sifan</li>
 
 Alumni
-PhD, Zhao Lei (Hesai)
-PhD, Heng Wei (Huawei)
-PhD, Tao Xia 
+<p>PhD, Zhao Lei (Hesai)
+<p>PhD, Heng Wei (Huawei)
+<p>PhD, Tao Xia 
 
 MS, James Qian (Robotics)
 MS, 
