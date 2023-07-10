@@ -4,7 +4,7 @@ title: Updates
 
 # <i class="fas fa-tools"></i>Updates
 
-This page includes news in which AI Design Lab was featured.  
+This page includes news in which AI Design Lab was featured.  Thank you following us
 
 <!-- section break -->
 
