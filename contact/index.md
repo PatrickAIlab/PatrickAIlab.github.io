@@ -19,10 +19,6 @@ Our lab is part of the
 [pchiang@fudan.edu.cn](mailto:pchiang@fudan.edu.cn)  
 {:.center}
 
-## <i class="fas fa-phone fa-sm"></i>Phone
-
-[18916231810](tel:18916231810)
-{:.center}
 
 <!-- ## <i class="fas fa-map-marked fa-sm"></i>Location
 
