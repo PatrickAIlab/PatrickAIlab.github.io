@@ -5,8 +5,6 @@ background: images/backgrounds/califo.jpg
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the 
-
 {%
   include figure.html
   flat="true"
