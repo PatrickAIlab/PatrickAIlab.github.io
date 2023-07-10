@@ -55,14 +55,6 @@ We are actively recruiting highly motivated graduate students and postdocs with 
 <li>PhD, Shenglong Zhuo (Startup)</li>
 
 
-
-{%
-  include big-link.html
-  icon="fas fa-hands-helping"
-  text="Join the Team"
-  link="join"
-%}{:.center}
-
 <!-- section break -->
 
 {%
