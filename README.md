@@ -6,9 +6,9 @@ This website was generated from [`lab-website-template`](https://github.com/gree
 
 
 Content:
-1. UPDATES: updates/index.md  --> new_resources.yml
+1. UPDATES: updates/index.md  --> _data/new_resources.yml
 2. TEAM: team/index.md
-3. PUBLICATIONS: --> research-output.yml
+3. PUBLICATIONS: --> _data/research-output.yml
 4. TEACHING: research/index.md
 5. RESEARCH: projects/index.md
 6. Homepage: index.md
