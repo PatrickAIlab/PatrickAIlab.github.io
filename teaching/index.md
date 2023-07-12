@@ -42,7 +42,7 @@ Furthermore, this course introduces the application of artificial intelligence i
 | Week-13 | Guest-Lecture 3: AI in Healthcare |
 | Week-14 | Project Presentations-1 |
 | Week-15 | Project Presentations-2 |
-| Week-16 \ | Project Presentations-3 |
+| Week-16  | Project Presentations-3 |
 
 <!-- ### Undergraduate
 
