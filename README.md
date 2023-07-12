@@ -10,4 +10,5 @@ Content:
 2. TEAM: team/index.md
 3. PUBLICATIONS: --> research-output.yml
 4. TEACHING: research/index.md
-5. RESEARCH: projects/index.md 
+5. RESEARCH: projects/index.md
+6. Homepage: index.md
