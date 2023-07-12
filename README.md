@@ -6,8 +6,8 @@ This website was generated from [`lab-website-template`](https://github.com/gree
 
 
 Content:
-1. UPDATES: 
-2. TEAM: 
-3. PUBLICATIONS:
-4. TEACHING:
-5. RESEARCH: 
+1. UPDATES: updates/index.md 
+2. TEAM: team/index.md
+3. PUBLICATIONS: 
+4. TEACHING: research/index.md
+5. RESEARCH: projects/index.md 
