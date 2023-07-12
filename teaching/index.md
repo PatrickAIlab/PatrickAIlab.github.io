@@ -34,15 +34,15 @@ Furthermore, this course introduces the application of artificial intelligence i
 | Week-5 | Classic-Model 1: CNN |
 | Week-6 | Classic-Model 2: GAN |
 | Week-7 | Classic-Model 3: Transformer |
-| - Week-8 | Data-Collection: Build Database |
-| - Week-9 | Data-Collection: Pre-Processing, Data-Labeling |
-| - Week-10 | Midterm Presentation (AI-Application: Needs Finding) |
-| - Week-11 | Guest-Lecture 1: AI in Computer Vision |
-| - Week-12 | Guest-Lecture 2: AI in Natural Language Processing |
-| - Week-13 | Guest-Lecture 3: AI in Healthcare |
-| - Week-14 | Project Presentations-1 |
-| - Week-15 | Project Presentations-2 |
-| - Week-16 | Project Presentations-3 |
+| Week-8 | Data-Collection: Build Database |
+| Week-9 | Data-Collection: Pre-Processing, Data-Labeling |
+| Week-10 | Midterm Presentation (AI-Application: Needs Finding) |
+| Week-11 | Guest-Lecture 1: AI in Computer Vision |
+| Week-12 | Guest-Lecture 2: AI in Natural Language Processing |
+| Week-13 | Guest-Lecture 3: AI in Healthcare |
+| Week-14 | Project Presentations-1 |
+| Week-15 | Project Presentations-2 |
+| Week-16 \ | Project Presentations-3 |
 
 <!-- ### Undergraduate
 
