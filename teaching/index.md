@@ -44,76 +44,7 @@ Furthermore, this course introduces the application of artificial intelligence i
 | Week-15 | Project Presentations-2 |
 | Week-16  | Project Presentations-3 |
 
-<table>
-  <tr>
-    <td style="width: 30pt;">Week</td>
-    <td>Content & Expected Achievement</td>
-  </tr>
-  <tr>
-    <td>Week-1</td>
-    <td>Introducing to AI, Milestones Cases: ImageNet, AlphaGO, ChatGPT</td>
-  </tr>
-  <tr>
-    <td>Week-2</td>
-    <td>Basic: AI Model Evaluation, AI Model Classification Activation Function, Fully-Connected, Data Process</td>
-  </tr>
-  <tr>
-    <td>Week-3</td>
-    <td>Tools: Pytorch, TensorFlow, GPU</td>
-  </tr>
-  <tr>
-    <td>Week-4</td>
-    <td>Needs-Finding: End-User AI-Application</td>
-  </tr>
-  <tr>
-    <td>Week-5</td>
-    <td>Classic-Model 1: CNN</td>
-  </tr>
-  <tr>
-    <td>Week-6</td>
-    <td>Classic-Model 2: GAN</td>
-  </tr>
-  <tr>
-    <td>Week-7</td>
-    <td>Classic-Model 3: Transformer</td>
-  </tr>
-  <tr>
-    <td>Week-8</td>
-    <td>Data-Collection: Build Database</td>
-  </tr>
-  <tr>
-    <td>Week-9</td>
-    <td>Data-Collection: Pre-Processing, Data-Labeling</td>
-  </tr>
-  <tr>
-    <td>Week-10</td>
-    <td>Midterm Presentation (AI-Application: Needs Finding)</td>
-  </tr>
-  <tr>
-    <td>Week-11</td>
-    <td>Guest-Lecture 1: AI in Computer Vision</td>
-  </tr>
-  <tr>
-    <td>Week-12</td>
-    <td>Guest-Lecture 2: AI in Natural Language Processing</td>
-  </tr>
-  <tr>
-    <td>Week-13</td>
-    <td>Guest-Lecture 3: AI in Healthcare</td>
-  </tr>
-  <tr>
-    <td>Week-14</td>
-    <td>Project Presentations-1</td>
-  </tr>
-  <tr>
-    <td>Week-15</td>
-    <td>Project Presentations-2</td>
-  </tr>
-  <tr>
-    <td>Week-16</td>
-    <td>Project Presentations-3</td>
-  </tr>
-</table>
+
 
 
 <!-- ### Undergraduate
