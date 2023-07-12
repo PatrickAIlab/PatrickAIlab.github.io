@@ -25,7 +25,7 @@ This course is designed for students to learn the theory, algorithms, and applic
 
 Furthermore, this course introduces the application of artificial intelligence in SOTA (State-of-the-Art) practical uses and daily life, involving fields such as computer vision, natural language processing, and healthcare. The goal of the course is to enable students to understand the principles of commonly used artificial intelligence algorithms, select appropriate algorithms for practical problems, and build usable AI models. The class's ultimate goal is for students to deeply understand and apply the latest and future development trends of AI.
 
-| Week {:.width-30} | Content & Expected Achievement                                   |
+| Week <summary>{:.width-30}</summary> | Content & Expected Achievement                                   |
 |----------|---------------------------------------------------|
 | Week-1 | Introducing to AI, Milestones Cases: ImageNet, AlphaGO, ChatGPT |
 | Week-2 | Basic: AI Model Evaluation, AI Model Classification Activation Function, Fully-Connected, Data Process |
